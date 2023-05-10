@@ -1,0 +1,10 @@
+__pycash__
+venv/
+.venv/
+collecting_data.ipynb
+**__pycache__/
+.history
+**/docker/sofia_air_quality_data
+.ipynb_checkpoints/
+**.pytest_cache/
+data
